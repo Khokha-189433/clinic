@@ -1,22 +1,19 @@
 
 .momdiv{
-    /* padding: 12px; */
+    padding: 12px;
     margin-top:-15px ;
-    background-color: rgba(88, 79, 79, 0.096);
-    
+    background-color: rgba(88, 79, 79, 0.096); 
 }
 .all-ASKEDQUESTIONS{
     background-color: rgb(255, 255, 255);
-    height: auto;
-    margin: 60px;
-   
+    margin: 40px;
 }
 .oneASKEDQUESTIONS{
-   width: 40rem;
+   width: 46rem;
    height: auto;
    background-color: rgba(213, 225, 247, 0.548);
-   padding: 15px;
-   margin: 2rem   ;
+   padding: 12px;
+   margin: 1rem   ;
    box-shadow: 0.3em 0.3em 1em rgba(22, 73, 77, 0.6);
    color: #1f2278ce ; 
 }
@@ -35,10 +32,8 @@ textarea{
  border: none;
 }
 .addphoto{
-   
     background-color:white ;
     width: 90%;
-    /* height: 10vh; */
     height: auto;
     display: flex;
     align-items: center;
@@ -51,11 +46,7 @@ textarea{
     margin: -1px  4rem 0px 0px;
     border-radius: 45%;
 }
-#allclass{
-   display: inline-block;
-   justify-content: center;
-   
-}
+
 .card{
     background: #FFF;
     width: 120rem;
@@ -71,12 +62,18 @@ textarea{
 }
 .box-one{
     width: 36rem;
-    height: auto;
+    height:auto;
     background-color: rgba(234, 238, 245, 0.548);
     padding: 14px;
     margin: .8rem   ;
     box-shadow: 0.3em 0.3em 1em rgba(22, 73, 77, 0.6);
     color: #1f2278ce ; 
-   
 }
+.div-name{
+    display: flex;
+    justify-self:center;
+    /* align-items: center; */
+    padding-left: 8%;
+}
+
 
