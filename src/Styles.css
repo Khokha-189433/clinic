@@ -1,0 +1,78 @@
+
+.momdiv{
+    /* padding: 12px; */
+    margin-top:-15px ;
+    background-color: rgba(88, 79, 79, 0.096);
+    
+}
+.all-ASKEDQUESTIONS{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    margin: 60px;
+   
+}
+.oneASKEDQUESTIONS{
+   width: 40rem;
+   height: auto;
+   background-color: rgba(213, 225, 247, 0.548);
+   padding: 15px;
+   margin: 2rem   ;
+   box-shadow: 0.3em 0.3em 1em rgba(22, 73, 77, 0.6);
+   color: #1f2278ce ; 
+}
+#paragraf{
+    background-color: rgba(213, 225, 247, 0.548);
+    text-align: center;
+    font-weight: bold;
+
+}
+fieldset{
+  margin:  22px  21rem 0px 0px !important; 
+}
+
+textarea{
+ margin:  22px  9rem 0px 0px !important; 
+ border: none;
+}
+.addphoto{
+   
+    background-color:white ;
+    width: 90%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 0px;
+}
+.imgstyle{
+    width: 10rem;
+    height: 5.5rem;
+    margin: -1px  4rem 0px 0px;
+    border-radius: 45%;
+}
+#allclass{
+   display: inline-block;
+   justify-content: center;
+   
+}
+.card{
+    widtu :400px ;
+    background: #FFF;
+    margin-left: 30.6rem ;
+    
+}
+.add-file{
+   display: block;
+   width : 55px ;
+   height: 90px;
+   padding: 0px ;
+   text-align: center;
+   border-radius: 4px ;
+   cursor: pointer;
+   background:rgba(0, 81, 255, 0.24) ;
+}
+.card input{
+    display: none;
+
+}
+

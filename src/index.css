@@ -5,10 +5,40 @@ body {
   font-family: 'Merriweather', serif;
 
 }
-section{
+html{
+  scroll-behavior: smooth;
+}
+:root {
+  --main-color: #1F2278 ;
+  --oreange-color: #f17732 
+}
+section ,header ,footer { 
   width: 100%;
   height: auto;
   overflow: hidden;
   max-width: 100%;
   padding: 25px 50px ; 
+}
+a{
+  text-decoration: none !important;
+}
+span{
+  display: block;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+button{
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+input{
+  box-sizing: border-box;
+   border: none;
+  padding: 7px 15px; 
+  color: #333;
+  font: 19px;
+  font-family: tajawal;
 }

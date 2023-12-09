@@ -1,0 +1,40 @@
+.Pagetitle{
+ font-weight: bold;
+ font-size: 20px;
+ color: var(--oreange-color);
+ text-align: center;
+ padding: 10px;
+ background: #36385a;
+
+}
+
+nav{
+    
+    height: auto;
+    border-radius: 0px ;
+} 
+.imgstyle{
+    width: 22rem;
+    height: 13rem;
+    margin-top: -6px;
+}
+ .bg-body-tertiary{
+    width: auto;
+  
+} 
+nav .navbar-nav {
+    margin-top:12px ;
+    
+    
+}
+nav .navbar-nav a{
+    color:  #1F2278 ;
+    margin-right: 90px;
+    font-size: 20px;
+    
+}
+
+nav .navbar-nav a:hover{
+    color:var(--oreange-color) ;
+    color: #1F2278;
+}
